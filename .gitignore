@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+korail_web_v4_state.json
+*.png
